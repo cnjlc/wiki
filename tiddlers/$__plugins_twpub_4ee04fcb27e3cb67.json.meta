@@ -1,0 +1,14 @@
+conversion-errors: 0
+converter-version: 0.1.0
+count-chunks: 2840
+count-images: 53
+cover-image: $:/plugins/twpub/4ee04fcb27e3cb67/images/images/calibre_cover.jpg
+description: 原则
+epub-creator: 瑞·达利欧
+epub-title: 原则
+list: readme errors cover text
+name: TWPUB
+plugin-type: plugin
+title: $:/plugins/twpub/4ee04fcb27e3cb67
+type: application/json
+version: v0.0.1
